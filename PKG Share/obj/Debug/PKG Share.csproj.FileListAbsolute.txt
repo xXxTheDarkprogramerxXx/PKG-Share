@@ -1,0 +1,9 @@
+c:\users\3de echelon\documents\visual studio 2013\Projects\PKG Share\PKG Share\bin\Debug\PKG Share.exe.config
+c:\users\3de echelon\documents\visual studio 2013\Projects\PKG Share\PKG Share\bin\Debug\PKG Share.exe
+c:\users\3de echelon\documents\visual studio 2013\Projects\PKG Share\PKG Share\bin\Debug\PKG Share.pdb
+c:\users\3de echelon\documents\visual studio 2013\Projects\PKG Share\PKG Share\obj\Debug\PKG Share.csprojResolveAssemblyReference.cache
+c:\users\3de echelon\documents\visual studio 2013\Projects\PKG Share\PKG Share\obj\Debug\PKG_Share.Form1.resources
+c:\users\3de echelon\documents\visual studio 2013\Projects\PKG Share\PKG Share\obj\Debug\PKG_Share.Properties.Resources.resources
+c:\users\3de echelon\documents\visual studio 2013\Projects\PKG Share\PKG Share\obj\Debug\PKG Share.csproj.GenerateResource.Cache
+c:\users\3de echelon\documents\visual studio 2013\Projects\PKG Share\PKG Share\obj\Debug\PKG Share.exe
+c:\users\3de echelon\documents\visual studio 2013\Projects\PKG Share\PKG Share\obj\Debug\PKG Share.pdb

@@ -1,0 +1,2 @@
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at PKG_Share.Form1.Form1_Load(Object sender, EventArgs e) in c:\Users\3de Echelon\Documents\Visual Studio 2013\Projects\PKG Share\PKG Share\Form1.cs:line 117
